@@ -1,0 +1,346 @@
+Build Tool Notice:
+
+This software was compiled using pyinstaller, which is licensed under GPLv2. Since pyinstaller was used only as a build tool and not as part of the software itself, its license does not affect the licensing of this software. For more details, please visit pyinstaller’s website.(https://pyinstaller.org/en/stable/)
+
+Package: Kivy
+Version: 2.3.0
+License: MIT
+Copyright: Kivy Team and other contributors
+Website: http://kivy.org
+----------------------------------------
+Package: Kivy-Garden
+Version: 0.1.5
+License: MIT
+Copyright: Kivy Team and other contributors
+Website: https://github.com/kivy-garden/garden
+----------------------------------------
+Package: PTable
+Version: 0.9.2
+License: BSD (3 clause)
+Copyright: Luke Maurits
+Website: https://github.com/kxxoling/PTable
+----------------------------------------
+Package: Pillow
+Version: 9.5.0
+License: HPND
+Copyright: Jeffrey A. Clark (Alex)
+Website: https://python-pillow.org
+----------------------------------------
+Package: PyAudio
+Version: 0.2.12
+License: MIT
+Copyright: Hubert Pham
+Website: https://people.csail.mit.edu/hubert/pyaudio/
+----------------------------------------
+Package: altgraph
+Version: 0.17.4
+License: MIT
+Copyright: Ronald Oussoren
+Website: https://altgraph.readthedocs.io
+----------------------------------------
+Package: certifi
+Version: 2024.7.4
+License: MPL-2.0
+Copyright: Kenneth Reitz
+Website: https://github.com/certifi/python-certifi
+----------------------------------------
+Package: cffi
+Version: 1.15.1
+License: MIT
+Copyright: Armin Rigo, Maciej Fijalkowski
+Website: http://cffi.readthedocs.org
+----------------------------------------
+Package: charset-normalizer
+Version: 3.3.2
+License: MIT
+Copyright: Ahmed TAHRI
+Website: https://github.com/Ousret/charset_normalizer
+----------------------------------------
+Package: colorama
+Version: 0.4.6
+License: BSD 3-Clause license
+Copyright: Jonathan Hartley & Arnon Yaari, 2013-2020.
+Website: https://github.com/tartley/colorama
+----------------------------------------
+Package: decorator
+Version: 4.4.2
+License: new BSD License
+Copyright: Michele Simionato
+Website: https://github.com/micheles/decorator
+----------------------------------------
+Package: docutils
+Version: 0.20.1
+License: public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)
+Copyright: David Goodger
+Website: https://docutils.sourceforge.io/
+----------------------------------------
+Package: idna
+Version: 3.7
+License: BSD License
+Copyright: Kim Davies and contributors
+Website: https://github.com/kjd/idna
+----------------------------------------
+Package: imageio
+Version: 2.31.2
+License: BSD-2-Clause
+Copyright: imageio contributors
+Website: https://github.com/imageio/imageio
+----------------------------------------
+Package: imageio-ffmpeg
+Version: 0.5.1
+License: BSD-2-Clause
+Copyright: imageio contributors
+Website: https://github.com/imageio/imageio-ffmpeg
+----------------------------------------
+Package: importlib-metadata
+Version: 6.7.0
+License: Apache License 2.0
+Copyright: Jason R. Coombs
+Website: https://github.com/python/importlib_metadata
+----------------------------------------
+Package: kivy-deps.angle
+Version: 0.4.0
+License: MIT
+Copyright: Kivy Crew
+Website: http://kivy.org/
+----------------------------------------
+Package: kivy-deps.glew
+Version: 0.3.1
+License: MIT
+Copyright: Kivy Crew
+Website: http://kivy.org/
+----------------------------------------
+Package: kivy-deps.sdl2
+Version: 0.7.0
+License: zlib
+Copyright: Kivy Crew
+Website: http://kivy.org/
+----------------------------------------
+Package: moviepy
+Version: 1.0.3
+License: MIT License
+Copyright: Zulko 2017
+Website: https://zulko.github.io/moviepy/
+----------------------------------------
+Package: numpy
+Version: 1.21.6
+License: BSD
+Copyright: Travis E. Oliphant et al.
+Website: https://www.numpy.org
+----------------------------------------
+Package: opencv-python
+Version: 4.8.0.74
+License: Apache 2.0
+Copyright: OpenCV Team
+Website: https://github.com/opencv/opencv-python
+----------------------------------------
+Package: packaging
+Version: 24.0
+License: Apache Software License, BSD License
+Copyright: Donald Stufft and individual contributors
+Website: https://github.com/pypa/packaging
+----------------------------------------
+Package: pefile
+Version: 2023.2.7
+License: MIT
+Copyright: Ero Carrera
+Website: https://github.com/erocarrera/pefile
+----------------------------------------
+Package: pip
+Version: 24.0
+License: MIT
+Copyright: pip developers
+Website: https://github.com/pypa/pip
+----------------------------------------
+Package: pip-licenses
+Version: 3.5.5
+License: MIT License
+Copyright: Python Packaging Authority
+Website: https://github.com/pypa/setuptools
+----------------------------------------
+Package: proglog
+Version: 0.1.10
+License: ** MIT, Copyright Edinburgh Genome Foundry
+Copyright: Zulko
+Website: https://github.com/Edinburgh-Genome-Foundry/Proglog
+----------------------------------------
+Package: pycparser
+Version: 2.21
+License: BSD
+Copyright: Eli Bendersky
+Website: https://github.com/eliben/pycparser
+----------------------------------------
+Package: pydub
+Version: 0.25.1
+License: MIT
+Copyright: James Robert
+Website: http://pydub.com
+----------------------------------------
+Package: pygments
+Version: 2.17.2
+License: BSD-2-Clause
+Copyright: Pygments is written and maintained by Georg Brandl
+Website: https://github.com/pygments/pygments
+----------------------------------------
+Package: pyinstaller
+Version: 5.13.2
+License: GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)
+Copyright: Hartmut Goebel, Giovanni Bajo, David Vierra, David Cortesi, Martin Zibricky
+Website: https://www.pyinstaller.org/
+----------------------------------------
+Package: pyinstaller-hooks-contrib
+Version: 2024.7
+License: GNU GENERAL PUBLIC LICENSE Version 2
+Copyright: 1989, 1991 Free Software Foundation, Inc
+Website: https://github.com/pyinstaller/pyinstaller-hooks-contrib
+----------------------------------------
+Package: pypiwin32
+Version: 223
+License: Python Software Foundation License
+Copyright: Mark Hammond (et al)
+Website: https://github.com/mhammond/pywin32
+----------------------------------------
+Package: pywin32
+Version: 306
+License: Python Software Foundation License
+Copyright: Mark Hammond (et al)
+Website: https://github.com/mhammond/pywin32
+----------------------------------------
+Package: pywin32-ctypes
+Version: 0.2.2
+License: BSD-3-Clause
+Copyright: Enthought Inc.
+Website: https://github.com/enthought/pywin32-ctypes
+----------------------------------------
+Package: requests
+Version: 2.31.0
+License: Apache 2.0
+Copyright: Kenneth Reitz
+Website: https://requests.readthedocs.io
+----------------------------------------
+Package: setuptools
+Version: 68.0.0
+License: MIT License
+Copyright: Python Packaging Authority
+Website: https://github.com/pypa/setuptools
+----------------------------------------
+Package: sounddevice
+Version: 0.4.7
+License: MIT
+Copyright: Matthias Geier
+Website: http://python-sounddevice.readthedocs.io/
+----------------------------------------
+Package: tqdm
+Version: 4.66.5
+License: MPL-2.0 AND MIT
+Copyright: tqdm developers
+Website: https://github.com/tqdm/tqdm
+----------------------------------------
+Package: typing-extensions
+Version: 4.7.1
+License: Python Software Foundation License
+Copyright: Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee
+Website: https://github.com/python/typing_extensions
+----------------------------------------
+Package: urllib3
+Version: 2.0.7
+License: MIT license
+Copyright: Andrey Petrov and contributors
+Website: https://github.com/urllib3/urllib3
+----------------------------------------
+Package: zipp
+Version: 3.15.0
+License: MIT License
+Copyright: Jason R. Coombs
+Website: https://github.com/jaraco/zipp
+----------------------------------------
+
+-------------------------------------------------------------------
+MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-------------------------------------------------------------------
+HPND License
+The HPND License is a permissive open-source license which allows software to be freely used, modified, and distributed with minimal restrictions. It permits personal, academic, and commercial use.
+
+The software is provided "as is", without any warranty of any kind. The authors are not liable for any claims or damages resulting from the use of the software.
+
+-------------------------------------------------------------------
+Mozilla Public License Version 2.0
+
+1. Definitions
+   1.1. "Contributor" means each entity that creates or contributes to the creation of Modifications.
+   1.2. "Modifications" means any of the following: (i) any file in Source Code form that is modified or added by a Contributor; or (ii) any file in Object Code form that is modified or added by a Contributor.
+
+2. The License
+   2.1. Grants
+       a. You are granted a worldwide, royalty-free, non-exclusive license to use, reproduce, modify, display, distribute, and sublicense the Work.
+       b. You may create derivative works of the Work, subject to the conditions set forth in this License.
+
+3. Conditions
+   3.1. You must include a copy of this License with every copy or substantial portion of the Work.
+   3.2. You must include a prominent notice stating that you have modified the Work.
+
+4. Termination
+   4.1. This License and the rights granted hereunder will terminate automatically if you breach any term of this License.
+
+5. Disclaimer
+   5.1. The software is provided "as is", without warranty of any kind.
+
+6. Miscellaneous
+   6.1. This License shall be governed by and construed in accordance with the laws of the State of New York.
+-------------------------------------------------------------------
+Apache License
+Version 2.0, January 2004
+
+1. Definitions
+   1.1. "Licensor" means the copyright owner or entity authorized by the copyright owner that is granting the License.
+   1.2. "You" (or "Your") means an individual or Legal Entity exercising permissions granted by this License.
+
+2. Grant of Copyright License
+   2.1. Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive license to use, reproduce, modify, distribute, and publicly display the Work.
+
+3. Conditions
+   3.1. You must include a copy of this License with every copy or substantial portion of the Work.
+   3.2. You must include a copy of the NOTICE file with any redistribution of the Work.
+
+4. Termination
+   4.1. This License and the rights granted hereunder will terminate automatically if You breach any term of this License.
+
+5. Disclaimer
+   5.1. The software is provided "as is", without warranty of any kind.
+
+6. Miscellaneous
+   6.1. This License shall be governed by and construed in accordance with the laws of the State of California.
+-------------------------------------------------------------------
+zlib License
+
+1. Definitions
+   1.1. "Software" means the zlib library and its associated files.
+
+2. Grant of License
+   2.1. The Software is licensed to you under the terms of this License.
+
+3. Conditions
+   3.1. You must include a copy of this License with any distribution of the Software.
+
+4. Disclaimer
+   4.1. The Software is provided "as is", without warranty of any kind.
+
+5. Miscellaneous
+   5.1. This License shall be governed by the laws of the jurisdiction in which the Software was developed.
